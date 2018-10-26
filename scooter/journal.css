@@ -2,6 +2,8 @@
 	font-family: "Emblema One";
 	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
 	     url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+
+
 }
 body {
   font-family:     Verdana, Geneva, Arial, sans-serif;
@@ -20,5 +22,5 @@ h2 {
   font-weight:     normal;
 }
 blockquote {
-  font-style:      italic;
+  font-style:      oblique;
 }
