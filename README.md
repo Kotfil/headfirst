@@ -1,1 +1,1 @@
-# HeadFirst
+# TypeScript Counter Project
